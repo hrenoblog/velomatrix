@@ -52,7 +52,7 @@
 `├── classified/`       
 `│   └── shiva.md`       
 `├── doctrine/`          
-`│   └── `[romanic-geopolitics.md](doctrine/romanic-geopolitics.md])          
+`│   └── `[romanic-geopolitics.md](doctrine/romanic-geopolitics.md)          
 `└── LICENSE`           
 
 
