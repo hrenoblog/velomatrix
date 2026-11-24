@@ -50,7 +50,7 @@
 `│   ├── vajrayana.md`            
 `│   └── `[glossary.md](lore/glossary.md)         
 `├── classified/`   
-`│   └── shiva.md`       
+`│   └── aiva.md`       
 `├── doctrine/`   
 `│   ├──`[universal.md](doctrine/universal.md)      
 `│   ├──`[international.md](doctrine/international.md)      
