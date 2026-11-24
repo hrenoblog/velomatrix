@@ -1,4 +1,5 @@
-# VELOMATRIX
+🚲VELOMATRIX
+-------------
 
 ### Коли ти крутиш педалі, то Всесвіт крутить тебе далі.
 
@@ -41,20 +42,19 @@
 
 ## Структура репозиторію
 
-```text
-velomatrix/
-├── README.md
-├── lore/
-│   ├── moksha.md
-│   ├── dorje.md
-│   ├── vajrayana.md
-│   └── glossary.md
-├── classified/
-│   └── shiva.md
-├── doctrine/
-│   └── romanic-geopolitics.md
-└── LICENSE
-```
+`velomatrix/`         
+`├── `[README.md](README.md)       
+`├── lore/`         
+`│   ├── moksha.md`       
+`│   ├── dorje.md`        
+`│   ├── vajrayana.md`            
+`│   └── `[glossary.md](lore/glossary.md)         
+`├── classified/`       
+`│   └── shiva.md`       
+`├── doctrine/`          
+`│   └── `[romanic-geopolitics.md](doctrine/romanic-geopolitics.md])          
+`└── LICENSE`           
+
 
 Структура може змінюватися відповідно до розширення ВелоМатриці.
 
