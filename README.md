@@ -48,10 +48,9 @@
 `│   ├── moksha.md`       
 `│   ├── dorje.md`        
 `│   ├── vajrayana.md`            
-`│   └── `[glossary.md](lore/glossary.md)         
-`├── classified/`   
-`│   └── aiva.md`       
-`├── doctrine/`   
+`│   └── `[glossary.md](lore/glossary.md)               
+`├── doctrine/`  
+`│   ├──`[aiva.md](doctrine/aiva.md) 
 `│   ├──`[universal.md](doctrine/universal.md)      
 `│   ├──`[international.md](doctrine/international.md)      
 `│   └── `[romanic-geopolitics.md](doctrine/romanic-geopolitics.md)          
