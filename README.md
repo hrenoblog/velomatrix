@@ -49,9 +49,11 @@
 `│   ├── dorje.md`        
 `│   ├── vajrayana.md`            
 `│   └── `[glossary.md](lore/glossary.md)         
-`├── classified/`       
+`├── classified/`   
 `│   └── shiva.md`       
-`├── doctrine/`          
+`├── doctrine/`   
+`│   ├──`[universal.md](doctrine/universal.md)      
+`│   ├──`[international.md](doctrine/international.md)      
 `│   └── `[romanic-geopolitics.md](doctrine/romanic-geopolitics.md)          
 `└── LICENSE`           
 
